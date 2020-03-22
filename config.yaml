@@ -13,5 +13,5 @@ backend: docker
 controlPlane:
   nodes: 1
 workers:
-  nodes: 2
+  nodes: 1
 # version: "1.17.3"
